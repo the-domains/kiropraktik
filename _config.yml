@@ -1,0 +1,28 @@
+name: Kiropraktik
+favicon: null
+layout_spectrum: 0.7827792763710022
+typography_spectrum: 0.6565997886937112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4554032445885241
+  lightness: 0.016668472439050674
+  saturation: 0.5519348026718944
+  rhythmicContrast: 0.2242137696594
+purpose: []
